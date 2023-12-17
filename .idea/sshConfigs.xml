@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="84a7771b-bd26-4bdb-bff8-5dfbd083316b" port="22" customName="Portfolio" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="Portfolio" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
