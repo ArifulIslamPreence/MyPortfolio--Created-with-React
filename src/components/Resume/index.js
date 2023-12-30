@@ -104,9 +104,6 @@ export default function Resume() {
             <h3 class="mb-1 text-lg font-semibold text-white">
               Full Stack Application Development
             </h3>
-            <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on December 9, 2021
-            </time>
             <p class="text-base font-normal text-gray-400">
               I have conducted full life-cycle web application development (Agile) in frameworks like Django and Spring-boot.
               Leveraged Django’s built-in features and third-party libraries to streamline development processes and enhance the
