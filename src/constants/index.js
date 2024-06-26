@@ -36,6 +36,33 @@ export const projects = [
     img: yujaimg,
     code: "https://github.com/",
   },
+
+  {
+    title: "Chat-App with Django",
+    desc: "This repository contains a person-to-person messaging application built with Django. The app features a REST API and WebSocket notifications to avoid polling, ensuring real-time message updates. " +
+        "It uses a MySQL database and Redis for backend operations.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-800",
+      },
+      {
+        name: "Django",
+        color: "green-600",
+      },
+      {
+        name: "MySQL",
+        color: "red-600",
+      },
+      {
+        name: "Redis",
+        color: "orange-600",
+      },
+    ],
+    img: chat,
+    link: "https://github.com/ArifulIslamPreence/ChatApp",
+    code: "https://github.com/ArifulIslamPreence/ChatApp",
+  },
   {
     title: "Radio Frequency Prediction",
     desc: "This research project uses a time-series deep-learning solution to utilize improved feature mapping on the pre-processed data and, ultimately, perform the link failure prediction. " +
@@ -188,30 +215,5 @@ export const projects = [
     code: "https://github.com/ArifulIslamPreence/websiteblocker",
   },
 
-  {
-    title: "Chat-App with Django",
-    desc: "This repository contains a person-to-person messaging application built with Django. The app features a REST API and WebSocket notifications to avoid polling, ensuring real-time message updates. " +
-        "It uses a MySQL database and Redis for backend operations.",
-    tags: [
-      {
-        name: "Python",
-        color: "blue-800",
-      },
-      {
-        name: "Django",
-        color: "green-600",
-      },
-      {
-        name: "MySQL",
-        color: "red-600",
-      },
-      {
-        name: "Redis",
-        color: "orange-600",
-      },
-    ],
-    img: chat,
-    link: "https://github.com/ArifulIslamPreence/ChatApp",
-    code: "https://github.com/ArifulIslamPreence/ChatApp",
-  },
+
 ];
