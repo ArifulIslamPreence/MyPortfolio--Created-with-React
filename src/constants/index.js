@@ -63,8 +63,8 @@ export const projects = [
     title: "IoT- TCP attack detection",
     desc: "I led the development of a cutting-edge project, 'IoT-TCP Attack Detection using Multiple Neural Network Models,' focusing on bolstering cybersecurity in IoT networks." +
         " Employing flow generators Argus and Tranalyzer, I transformed pcap packets into structured flows for efficient analysis." +
-        " The organized project structure facilitated seamless execution of the analysis script, capturing diverse network behaviors in both benign and attack scenarios. Utilizing multiple neural network models, the project showcased my expertise in machine learning for anomaly detection in IoT traffic. " +
-        "This endeavor highlights my proficiency in cybersecurity, network traffic analysis, scripting, and machine learning, illustrating a comprehensive approach to addressing security challenges in IoT environments. ",
+        " The organized project structure facilitated seamless execution of the analysis script, capturing diverse network behaviors in both benign and attack scenarios. Utilizing multiple neural network models, the project showcased my expertise in machine learning for anomaly detection in IoT traffic. ",
+
     tags: [
       {
         name: "Python",
@@ -90,9 +90,8 @@ export const projects = [
     title: "Library Management System",
     desc: "I developed a comprehensive Library Management System using Java 8 and MySQL, showcasing my proficiency in backend development." +
         " This system efficiently manages library resources, including book cataloging, user registration, and lending operations. " +
-        "Leveraging Java's object-oriented principles, I implemented a modular and scalable architecture, ensuring flexibility for future enhancements. " +
-        "The integration with MySQL database highlights my expertise in data management and database design. Additionally, the system incorporates user-friendly interfaces, demonstrating my commitment to creating intuitive solutions." +
-        "This project not only honed my technical skills but also underscored my ability to deliver practical and effective software solutions for real-world scenarios",
+        "The integration with MySQL database highlights my expertise in data management and database design. Additionally, the system incorporates user-friendly interfaces, demonstrating my commitment to creating intuitive solutions." ,
+
     tags: [
       {
         name: "Java",
