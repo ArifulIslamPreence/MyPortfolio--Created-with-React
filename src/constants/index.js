@@ -3,6 +3,8 @@ import rf from "../assets/images/RF_prediction.png"
 import tcp from "../assets/images/tcp-iot.png"
 import library from "../assets/images/library.png"
 import sd from "../assets/images/sdfast.jpg"
+import blocker from "../assets/images/website-blocker.png"
+import plag from "../assets/images/Plag-checker.png"
 
 export const projects = [
   {
@@ -137,5 +139,51 @@ export const projects = [
     img: sd,
     link: "https://github.com/ArifulIslamPreence/dataplane-failure-detection",
     code: "https://github.com/ArifulIslamPreence/dataplane-failure-detection",
+  },
+
+  {
+    title: "Plagarism Checker",
+    desc: "This repository contains a plagiarism checker that uses TF-IDF vectorization and cosine similarity to detect similarities between text files." +
+        " It reads `.txt` files from the current directory, calculates their similarity scores, and outputs potential plagiarism cases ",
+    tags: [
+      {
+        name: "Python",
+        color: "green-600",
+      },
+      {
+        name: "MySQL",
+        color: "blue-800",
+      },
+      {
+        name: "Text manipulation",
+        color: "orange-600",
+      },
+    ],
+    img: plag,
+    link: "https://github.com/ArifulIslamPreence/PlagiarismChecker",
+    code: "https://github.com/ArifulIslamPreence/PlagiarismChecker",
+  },
+
+  {
+    title: "Website Blocker by Python",
+    desc: "a website blocker script that modifies the hosts file to block specified websites during certain hours." +
+        " The script supports both Linux and Windows environments and can be used to improve productivity by restricting access to distracting sites.",
+    tags: [
+      {
+        name: "Python",
+        color: "green-600",
+      },
+      {
+        name: "MySQL",
+        color: "blue-800",
+      },
+      {
+        name: "website-blocking",
+        color: "orange-600",
+      },
+    ],
+    img: blocker,
+    link: "https://github.com/ArifulIslamPreence/websiteblocker",
+    code: "https://github.com/ArifulIslamPreence/websiteblocker",
   },
 ];

@@ -26,6 +26,7 @@ export default function Home() {
             strings: [
                "Hi!✋ I'm Mohammad Ariful Islam",
               "Highly experienced in Research and Development Engineer",
+                "Currently looking for positions in Full-stack Development ( Python, Java, C#, React), DevOps ",
               "You can contact me through ✉️ anytime!",
             ],
             delay: 150,
