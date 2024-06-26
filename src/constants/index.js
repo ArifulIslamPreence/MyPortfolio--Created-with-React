@@ -5,6 +5,8 @@ import library from "../assets/images/library.png"
 import sd from "../assets/images/sdfast.jpg"
 import blocker from "../assets/images/website-blocker.png"
 import plag from "../assets/images/Plag-checker.png"
+import chat from "../assets/images/chatapp.png"
+
 
 export const projects = [
   {
@@ -184,5 +186,32 @@ export const projects = [
     img: blocker,
     link: "https://github.com/ArifulIslamPreence/websiteblocker",
     code: "https://github.com/ArifulIslamPreence/websiteblocker",
+  },
+
+  {
+    title: "Chat-App with Django",
+    desc: "This repository contains a person-to-person messaging application built with Django. The app features a REST API and WebSocket notifications to avoid polling, ensuring real-time message updates. " +
+        "It uses a MySQL database and Redis for backend operations.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-800",
+      },
+      {
+        name: "Django",
+        color: "green-600",
+      },
+      {
+        name: "MySQL",
+        color: "red-600",
+      },
+      {
+        name: "Redis",
+        color: "orange-600",
+      },
+    ],
+    img: chat,
+    link: "https://github.com/ArifulIslamPreence/ChatApp",
+    code: "https://github.com/ArifulIslamPreence/ChatApp",
   },
 ];
