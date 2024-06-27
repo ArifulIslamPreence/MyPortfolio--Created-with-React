@@ -6,6 +6,9 @@ import sd from "../assets/images/sdfast.jpg"
 import blocker from "../assets/images/website-blocker.png"
 import plag from "../assets/images/Plag-checker.png"
 import chat from "../assets/images/chatapp.png"
+import chaldal from "../assets/images/chaldal.png"
+import evp from "../assets/images/evp.png"
+import himalaya from "../assets/images/himalaya.png"
 
 
 export const projects = [
@@ -36,7 +39,98 @@ export const projects = [
     img: yujaimg,
     code: "https://github.com/",
   },
+  {
+    title: "Enterprise Video Platform (EVP)",
+    desc: " YuJa's Enterprise Video Platform is a robust solution designed for corporate environments to manage, distribute," +
+        " and enhance video content. It offers features such as video hosting, live streaming, lecture capture, video conferencing, and content management." +
+        " The platform is built to support corporate training, communication, and collaboration," +
+        " ensuring secure and scalable video solutions for businesses of all sizes",
+    tags: [
+      {
+        name: "Python",
+        color: "red-600",
+      },
+      {
+        name: "React",
+        color: "green-600",
+      },
+      {
+        name: "AWS",
+        color: "yellow-600",
+      },
+      {
+        name: "MySQL",
+        color: "blue-800",
+      },
+      {
+        name: "Video-stream",
+        color: "orange-600",
+      },
+    ],
+    img: evp,
+    link: "https://www.yuja.com/industry-solutions/corporate-video-platform/",
+  },
 
+  {
+    title: "Chaldal ( Largest e-commerce site of Bangladesh)",
+    desc: "I developed REST APIs for Naztech using Django Rest Framework, enhancing integration between front-end and backend systems. This included creating scalable APIs for Chaldal, handling over 10,000 transactions daily." +
+        " Additionally, I implemented a real-time analytics dashboard, achieving a 48% improvement in data retrieval speed.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-800",
+      },
+      {
+        name: "Django",
+        color: "green-600",
+      },
+      {
+        name: "MySQL",
+        color: "red-600",
+      },
+      {
+        name: "REST",
+        color: "orange-600",
+      },
+    ],
+    img: chaldal,
+    link: "https://www.chaldal.com",
+  },
+
+  {
+    title: "Himalaya (Enterprise data Archive)",
+    desc: "I played a crucial role as a developer on the Himalayas project, aimed at optimizing storage costs for the Enterprise Video Platform (EVP). I designed and implemented advanced archival tools utilizing Amazon's cost-effective storage solution, Glacier. " +
+        "Through meticulous analysis and optimization, I successfully reduced storage expenses by 60-70%",
+    tags: [
+      {
+        name: "Python",
+        color: "red-600",
+      },
+      {
+        name: "React",
+        color: "green-600",
+      },
+      {
+        name: "AWS",
+        color: "yellow-600",
+      },
+      {
+        name: "MySQL",
+        color: "blue-800",
+      },
+      {
+        name: "Glacier",
+        color: "orange-600",
+      },
+
+      {
+        name: "DevOps",
+        color: "yellow-600",
+      },
+    ],
+    img: evp,
+    link: "https://www.yuja.com/video-cms/himalayas/",
+  },
   {
     title: "Chat-App with Django",
     desc: "This repository contains a person-to-person messaging application built with Django. The app features a REST API and WebSocket notifications to avoid polling, ensuring real-time message updates. " +
@@ -115,30 +209,34 @@ export const projects = [
     img: tcp,
     code: "https://github.com/ArifulIslamPreence/IoT-TCP-Attack-detection",
   },
-  {
-    title: "Library Management System",
-    desc: "I developed a comprehensive Library Management System using Java 8 and MySQL, showcasing my proficiency in backend development." +
-        " This system efficiently manages library resources, including book cataloging, user registration, and lending operations. " +
-        "The integration with MySQL database highlights my expertise in data management and database design. Additionally, the system incorporates user-friendly interfaces, demonstrating my commitment to creating intuitive solutions." ,
 
-    tags: [
-      {
-        name: "Java",
-        color: "red-600",
-      },
-      {
-        name: "Jquery",
-        color: "green-600",
-      },
-      {
-        name: "MySQL",
-        color: "blue-800",
-      },
-    ],
-    img: library,
 
-    code: "https://github.com/ArifulIslamPreence/Library-Management-System-Personal-/tree/master/Library",
-  },
+
+
+  // {
+  //   title: "Library Management System",
+  //   desc: "I developed a comprehensive Library Management System using Java 8 and MySQL, showcasing my proficiency in backend development." +
+  //       " This system efficiently manages library resources, including book cataloging, user registration, and lending operations. " +
+  //       "The integration with MySQL database highlights my expertise in data management and database design. Additionally, the system incorporates user-friendly interfaces, demonstrating my commitment to creating intuitive solutions." ,
+  //
+  //   tags: [
+  //     {
+  //       name: "Java",
+  //       color: "red-600",
+  //     },
+  //     {
+  //       name: "Jquery",
+  //       color: "green-600",
+  //     },
+  //     {
+  //       name: "MySQL",
+  //       color: "blue-800",
+  //     },
+  //   ],
+  //   img: library,
+  //
+  //   code: "https://github.com/ArifulIslamPreence/Library-Management-System-Personal-/tree/master/Library",
+  // },
   {
     title: "Dataplane Failure Detection",
     desc: "A failure detection mechanism for dataplane recovery in SD-FAST dataplane architecture implementation using p4",

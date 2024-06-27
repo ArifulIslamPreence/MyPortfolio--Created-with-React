@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="746755b2-18d5-4817-8a39-f3e596583509" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/chaldal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/evp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/himalaya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +33,16 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2YM3ptwkdd3kOkKEJSzj2QTfs6n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -78,7 +86,8 @@
       <workItem from="1702829480998" duration="4453000" />
       <workItem from="1703950889250" duration="2948000" />
       <workItem from="1705417322000" duration="716000" />
-      <workItem from="1719424777592" duration="3661000" />
+      <workItem from="1719424777592" duration="4328000" />
+      <workItem from="1719454244382" duration="1478000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Resume">
       <option name="closed" value="true" />
@@ -112,17 +121,27 @@
       <option name="project" value="LOCAL" />
       <updated>1719428042041</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="small refactor">
+      <option name="closed" value="true" />
+      <created>1719428497110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719428497110</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Updated Resume" />
     <MESSAGE value="Added new projects" />
     <MESSAGE value="code refactor and new desc added" />
     <MESSAGE value=" new project added" />
-    <option name="LAST_COMMIT_MESSAGE" value=" new project added" />
+    <MESSAGE value="small refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="small refactor" />
   </component>
 </project>
