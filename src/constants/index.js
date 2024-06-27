@@ -128,7 +128,7 @@ export const projects = [
         color: "yellow-600",
       },
     ],
-    img: evp,
+    img: himalaya,
     link: "https://www.yuja.com/video-cms/himalayas/",
   },
   {

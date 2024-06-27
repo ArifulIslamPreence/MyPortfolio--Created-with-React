@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="746755b2-18d5-4817-8a39-f3e596583509" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/chaldal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/evp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/himalaya.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
     </list>
@@ -87,7 +84,7 @@
       <workItem from="1703950889250" duration="2948000" />
       <workItem from="1705417322000" duration="716000" />
       <workItem from="1719424777592" duration="4328000" />
-      <workItem from="1719454244382" duration="1478000" />
+      <workItem from="1719454244382" duration="2291000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Resume">
       <option name="closed" value="true" />
@@ -129,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719428497110</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added projects">
+      <option name="closed" value="true" />
+      <created>1719455762902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719455762902</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +147,7 @@
     <MESSAGE value="code refactor and new desc added" />
     <MESSAGE value=" new project added" />
     <MESSAGE value="small refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="small refactor" />
+    <MESSAGE value="added projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="added projects" />
   </component>
 </project>
